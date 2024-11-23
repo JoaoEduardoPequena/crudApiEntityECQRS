@@ -20,6 +20,7 @@ Esta é uma aplicação back-end, (API), feita na versão do .NET CORE 7 , CQRS 
    <li>Linguagem de Programação C#</li>
    <li>ORM Entity Frame Work Core 7 </li>
    <li> Fluent Validation </li>
+   <li>Identity.EntityFrameworkCore </li>
    <li>SGB SQL Server 2019, para criação do banco de dados</li>
 </ul>
 

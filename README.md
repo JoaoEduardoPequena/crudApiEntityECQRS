@@ -7,7 +7,7 @@ Esta é uma aplicação back-end, (API), feita na versão do .NET CORE 7 , CQRS 
    <li>Editar Usuários</li>
    <li>Eliminar Usuários</li>
    <li>Listar todas Usuários</li>
-   <li>Filtrar um Usuários especifica</li>
+   <li>Filtrar um Usuário especifico</li>
    <li>Gerar QRCode</li>	
 </ul>
 
